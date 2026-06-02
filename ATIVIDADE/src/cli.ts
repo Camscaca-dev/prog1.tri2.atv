@@ -3,7 +3,6 @@
 // import TodoListClass from "./core"
 // import { Item, TodoList } from "./core"
 // import { Item as Item1, TodoList as TodoList1 } from "./core"
-
 import TodoListClass, { Item } from "./core"
 
 const todolist = new TodoListClass("todolist.json")
